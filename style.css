@@ -2,7 +2,6 @@ body {
   font-family: "Urbanist", sans-serif;
 }
 .hero {
-  background: #ffcbcb;
   text-align: center;
   padding: 160px 20px;
 }
@@ -10,6 +9,6 @@ body {
   max-width: 100%;
   height: auto;
 }
-.navbar.navbar-default {
-  background-color: #ffcbcb;
+.nav-link {
+  color: #132743;
 }
