@@ -20,11 +20,6 @@ h1 {
   max-width: 100%;
   height: auto;
 }
-img {
-  width: auto;
-  max-width: 100%;
-  height: auto;
-}
 .btn-branding {
   background: var(--fourth-color);
   border-radius: 4px;
@@ -61,7 +56,7 @@ img {
   line-height: 27px;
   padding: 15px 30px;
 }
-@media (max-width: 480px) {
+@media (max-width: 900px) {
   h1 {
     font-size: 44px;
     line-height: 1.5;
@@ -85,6 +80,7 @@ img {
     text-align: center;
   }
 }
+
 .about-btn {
   text-align: center;
 }
