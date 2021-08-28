@@ -9,12 +9,7 @@ body {
   font-family: var(--default-font-family);
   color: var(--fourth-color);
 }
-h1,
-h3,
-p,
-h4 {
-  text-align: center;
-}
+
 .hero {
   text-align: center;
   color: var(--fourth-color);
