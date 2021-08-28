@@ -86,6 +86,8 @@ img {
 
 .about-btn {
   text-align: center;
+  margin-left: 125px;
+  white-space: nowrap;
 }
 footer {
   margin: 60px 0;
