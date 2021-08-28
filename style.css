@@ -11,7 +11,8 @@ body {
 }
 h1,
 h3,
-p {
+p,
+h4 {
   text-align: center;
 }
 .hero {
